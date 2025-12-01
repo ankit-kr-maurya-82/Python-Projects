@@ -50,3 +50,35 @@ python
 
 **License**
 - No license file is included. Add a `LICENSE` file if you want to apply an open-source license to this repository.
+
+
+🔐 Random Password Generator (Python)
+
+A simple Python program that generates a strong random password using letters, digits, and special characters.
+The user can enter a custom password length, and the program handles invalid input gracefully.
+
+📌 Features
+
+Generates a random password using:
+
+Uppercase letters
+
+Lowercase letters
+
+Numbers
+
+Special characters
+
+Accepts custom password length
+
+Uses a default length if invalid input is provided
+
+Easy to modify and extend
+
+🚀 How to Run
+
+1. Install Python (if not already installed).
+
+2. Save the script as password_generator.py.
+
+3. Run the script:
