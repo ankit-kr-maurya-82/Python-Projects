@@ -12,7 +12,7 @@ def fetch_random_user_freeapi():
         return username, country
     else:
         raise Exception("Failed to fetch user data")
-    
+      
 def main():
     try:
         username, country = fetch_random_user_freeapi()
