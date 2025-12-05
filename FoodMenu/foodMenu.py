@@ -55,7 +55,7 @@ if time==1:
                 if drink==1:
                     print('Tea')
                     
-                    teaList = ["Black Tea", "Green Tea", "Masala Tea", "Ginger Tea"]
+                    teaList = ["Black Tea", "Green Tea", "Masala Tea", "Ginger Tea","Brown Tea", "White Tea", "Herbal Tea", "Oolong Tea", "Rooibos Tea"]
                     teaPriceList = [46, 34, 10, 16]
                     for i in range(len(teaList)):
                         print(i+1, teaList[i], "------------ Rs.", teaPriceList[i])

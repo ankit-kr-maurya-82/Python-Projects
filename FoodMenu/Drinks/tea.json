@@ -1,0 +1,45 @@
+{
+  "teaList": [
+    "Black Tea",
+    "Green Tea",
+    "Masala Tea",
+    "Ginger Tea",
+    "Brown Tea",
+    "White Tea",
+    "Herbal Tea",
+    "Oolong Tea",
+    "Rooibos Tea"
+  ],
+  "tea": {
+    "masala": {
+      "id": "01",
+      "name": "Masala Tea",
+      "type": "tea",
+      "price": 20
+    },
+    "black": {
+      "id": "02",
+      "name": "Black Tea",
+      "type": "tea",
+      "price": 40
+    },
+    "green": {
+      "id": "03",
+      "name": "Green Tea",
+      "type": "tea",
+      "price": 15
+    },
+    "ginger": {
+      "id": "04",
+      "name": "Ginger Tea",
+      "type": "tea",
+      "price": 20
+    },
+    "brown": {
+      "id": "05",
+      "name": "Brown Tea",
+      "type": "tea",
+      "price": 10
+    }
+  }
+}

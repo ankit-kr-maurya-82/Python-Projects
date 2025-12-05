@@ -1,0 +1,88 @@
+{
+  "cold_drinks": {
+    "cola": {
+      "id": "01",
+      "name": "Cola",
+      "type": "cold drink",
+      "price": 40
+    },
+    "lemon_soda": {
+      "id": "02",
+      "name": "Lemon Soda",
+      "type": "cold drink",
+      "price": 35
+    },
+    "orange_juice": {
+      "id": "03",
+      "name": "Orange Juice",
+      "type": "cold drink",
+      "price": 60
+    },
+    "mango_shake": {
+      "id": "04",
+      "name": "Mango Shake",
+      "type": "cold drink",
+      "price": 90
+    },
+    "cold_coffee": {
+      "id": "05",
+      "name": "Cold Coffee",
+      "type": "cold drink",
+      "price": 80
+    },
+    "iced_tea": {
+      "id": "06",
+      "name": "Iced Tea",
+      "type": "cold drink",
+      "price": 50
+    },
+    "mojito": {
+      "id": "07",
+      "name": "Mojito",
+      "type": "cold drink",
+      "price": 70
+    },
+    "strawberry_milkshake": {
+      "id": "08",
+      "name": "Strawberry Milkshake",
+      "type": "cold drink",
+      "price": 100
+    },
+    "chocolate_milkshake": {
+      "id": "09",
+      "name": "Chocolate Milkshake",
+      "type": "cold drink",
+      "price": 110
+    },
+    "blue_lagoon": {
+      "id": "10",
+      "name": "Blue Lagoon",
+      "type": "cold drink",
+      "price": 120
+    },
+    "watermelon_juice": {
+      "id": "11",
+      "name": "Watermelon Juice",
+      "type": "cold drink",
+      "price": 55
+    },
+    "pineapple_juice": {
+      "id": "12",
+      "name": "Pineapple Juice",
+      "type": "cold drink",
+      "price": 65
+    },
+    "energy_drink": {
+      "id": "13",
+      "name": "Energy Drink",
+      "type": "cold drink",
+      "price": 150
+    },
+    "butterscotch_shake": {
+      "id": "14",
+      "name": "Butterscotch Shake",
+      "type": "cold drink",
+      "price": 110
+    }
+  }
+}

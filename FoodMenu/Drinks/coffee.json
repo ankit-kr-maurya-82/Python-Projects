@@ -1,0 +1,88 @@
+{
+  "coffee": {
+    "black": {
+      "id": "01",
+      "name": "Black Coffee",
+      "type": "coffee",
+      "price": 50
+    },
+    "cappuccino": {
+      "id": "02",
+      "name": "Cappuccino",
+      "type": "coffee",
+      "price": 120
+    },
+    "latte": {
+      "id": "03",
+      "name": "Latte",
+      "type": "coffee",
+      "price": 110
+    },
+    "espresso": {
+      "id": "04",
+      "name": "Espresso",
+      "type": "coffee",
+      "price": 80
+    },
+    "mocha": {
+      "id": "05",
+      "name": "Mocha",
+      "type": "coffee",
+      "price": 140
+    },
+    "americano": {
+      "id": "06",
+      "name": "Americano",
+      "type": "coffee",
+      "price": 90
+    },
+    "flat_white": {
+      "id": "07",
+      "name": "Flat White",
+      "type": "coffee",
+      "price": 130
+    },
+    "irish": {
+      "id": "08",
+      "name": "Irish Coffee",
+      "type": "coffee",
+      "price": 180
+    },
+    "macchiato": {
+      "id": "09",
+      "name": "Macchiato",
+      "type": "coffee",
+      "price": 100
+    },
+    "cortado": {
+      "id": "10",
+      "name": "Cortado",
+      "type": "coffee",
+      "price": 95
+    },
+    "affogato": {
+      "id": "11",
+      "name": "Affogato",
+      "type": "coffee",
+      "price": 150
+    },
+    "turkish": {
+      "id": "12",
+      "name": "Turkish Coffee",
+      "type": "coffee",
+      "price": 85
+    },
+    "cold_brew": {
+      "id": "13",
+      "name": "Cold Brew",
+      "type": "coffee",
+      "price": 140
+    },
+    "vienna": {
+      "id": "14",
+      "name": "Vienna Coffee",
+      "type": "coffee",
+      "price": 160
+    }
+  }
+}

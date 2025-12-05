@@ -1,0 +1,210 @@
+{
+  "menu": {
+    "tea": {
+      "masala": {
+        "id": "T01",
+        "name": "Masala Tea",
+        "type": "tea",
+        "price": 20
+      },
+      "black": {
+        "id": "T02",
+        "name": "Black Tea",
+        "type": "tea",
+        "price": 40
+      },
+      "green": {
+        "id": "T03",
+        "name": "Green Tea",
+        "type": "tea",
+        "price": 15
+      },
+      "ginger": {
+        "id": "T04",
+        "name": "Ginger Tea",
+        "type": "tea",
+        "price": 20
+      },
+      "brown": {
+        "id": "T05",
+        "name": "Brown Tea",
+        "type": "tea",
+        "price": 10
+      }
+    },
+
+    "coffee": {
+      "black": {
+        "id": "C01",
+        "name": "Black Coffee",
+        "type": "coffee",
+        "price": 50
+      },
+      "cappuccino": {
+        "id": "C02",
+        "name": "Cappuccino",
+        "type": "coffee",
+        "price": 120
+      },
+      "latte": {
+        "id": "C03",
+        "name": "Latte",
+        "type": "coffee",
+        "price": 110
+      },
+      "espresso": {
+        "id": "C04",
+        "name": "Espresso",
+        "type": "coffee",
+        "price": 80
+      },
+      "mocha": {
+        "id": "C05",
+        "name": "Mocha",
+        "type": "coffee",
+        "price": 140
+      },
+      "americano": {
+        "id": "C06",
+        "name": "Americano",
+        "type": "coffee",
+        "price": 90
+      },
+      "flat_white": {
+        "id": "C07",
+        "name": "Flat White",
+        "type": "coffee",
+        "price": 130
+      },
+      "irish": {
+        "id": "C08",
+        "name": "Irish Coffee",
+        "type": "coffee",
+        "price": 180
+      },
+      "macchiato": {
+        "id": "C09",
+        "name": "Macchiato",
+        "type": "coffee",
+        "price": 100
+      },
+      "cortado": {
+        "id": "C10",
+        "name": "Cortado",
+        "type": "coffee",
+        "price": 95
+      },
+      "affogato": {
+        "id": "C11",
+        "name": "Affogato",
+        "type": "coffee",
+        "price": 150
+      },
+      "turkish": {
+        "id": "C12",
+        "name": "Turkish Coffee",
+        "type": "coffee",
+        "price": 85
+      },
+      "cold_brew": {
+        "id": "C13",
+        "name": "Cold Brew",
+        "type": "coffee",
+        "price": 140
+      },
+      "vienna": {
+        "id": "C14",
+        "name": "Vienna Coffee",
+        "type": "coffee",
+        "price": 160
+      }
+    },
+
+    "cold_drinks": {
+      "cola": {
+        "id": "D01",
+        "name": "Cola",
+        "type": "cold drink",
+        "price": 40
+      },
+      "lemon_soda": {
+        "id": "D02",
+        "name": "Lemon Soda",
+        "type": "cold drink",
+        "price": 35
+      },
+      "orange_juice": {
+        "id": "D03",
+        "name": "Orange Juice",
+        "type": "cold drink",
+        "price": 60
+      },
+      "mango_shake": {
+        "id": "D04",
+        "name": "Mango Shake",
+        "type": "cold drink",
+        "price": 90
+      },
+      "cold_coffee": {
+        "id": "D05",
+        "name": "Cold Coffee",
+        "type": "cold drink",
+        "price": 80
+      },
+      "iced_tea": {
+        "id": "D06",
+        "name": "Iced Tea",
+        "type": "cold drink",
+        "price": 50
+      },
+      "mojito": {
+        "id": "D07",
+        "name": "Mojito",
+        "type": "cold drink",
+        "price": 70
+      },
+      "strawberry_milkshake": {
+        "id": "D08",
+        "name": "Strawberry Milkshake",
+        "type": "cold drink",
+        "price": 100
+      },
+      "chocolate_milkshake": {
+        "id": "D09",
+        "name": "Chocolate Milkshake",
+        "type": "cold drink",
+        "price": 110
+      },
+      "blue_lagoon": {
+        "id": "D10",
+        "name": "Blue Lagoon",
+        "type": "cold drink",
+        "price": 120
+      },
+      "watermelon_juice": {
+        "id": "D11",
+        "name": "Watermelon Juice",
+        "type": "cold drink",
+        "price": 55
+      },
+      "pineapple_juice": {
+        "id": "D12",
+        "name": "Pineapple Juice",
+        "type": "cold drink",
+        "price": 65
+      },
+      "energy_drink": {
+        "id": "D13",
+        "name": "Energy Drink",
+        "type": "cold drink",
+        "price": 150
+      },
+      "butterscotch_shake": {
+        "id": "D14",
+        "name": "Butterscotch Shake",
+        "type": "cold drink",
+        "price": 110
+      }
+    }
+  }
+}
