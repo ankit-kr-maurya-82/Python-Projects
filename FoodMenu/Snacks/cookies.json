@@ -1,0 +1,88 @@
+{
+  "cookies": {
+    "chocolate_chip": {
+      "id": "CK01",
+      "name": "Chocolate Chip Cookies",
+      "type": "cookies",
+      "price": 50
+    },
+    "butter_cookies": {
+      "id": "CK02",
+      "name": "Butter Cookies",
+      "type": "cookies",
+      "price": 40
+    },
+    "oatmeal_cookies": {
+      "id": "CK03",
+      "name": "Oatmeal Cookies",
+      "type": "cookies",
+      "price": 45
+    },
+    "almond_cookies": {
+      "id": "CK04",
+      "name": "Almond Cookies",
+      "type": "cookies",
+      "price": 60
+    },
+    "coconut_cookies": {
+      "id": "CK05",
+      "name": "Coconut Cookies",
+      "type": "cookies",
+      "price": 50
+    },
+    "cashew_cookies": {
+      "id": "CK06",
+      "name": "Cashew Cookies",
+      "type": "cookies",
+      "price": 55
+    },
+    "honey_oat": {
+      "id": "CK07",
+      "name": "Honey Oat Cookies",
+      "type": "cookies",
+      "price": 45
+    },
+    "dark_chocolate": {
+      "id": "CK08",
+      "name": "Dark Chocolate Cookies",
+      "type": "cookies",
+      "price": 55
+    },
+    "vanilla_cookies": {
+      "id": "CK09",
+      "name": "Vanilla Cookies",
+      "type": "cookies",
+      "price": 40
+    },
+    "shortbread": {
+      "id": "CK10",
+      "name": "Shortbread Cookies",
+      "type": "cookies",
+      "price": 50
+    },
+    "peanut_butter": {
+      "id": "CK11",
+      "name": "Peanut Butter Cookies",
+      "type": "cookies",
+      "price": 55
+    },
+    "red_velvet": {
+      "id": "CK12",
+      "name": "Red Velvet Cookies",
+      "type": "cookies",
+      "price": 65
+    },
+    "choco_fudge": {
+      "id": "CK13",
+      "name": "Choco Fudge Cookies",
+      "type": "cookies",
+      "price": 70
+    },
+    "coffee_cookies": {
+      "id": "CK14",
+      "name": "Coffee Cookies",
+      "type": "cookies",
+      "price": 50
+    }
+  }
+}

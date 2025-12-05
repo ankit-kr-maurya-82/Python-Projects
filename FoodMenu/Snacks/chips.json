@@ -1,0 +1,88 @@
+{
+  "chips": {
+    "lays_classic": {
+      "id": "CH01",
+      "name": "Lays Classic Salted",
+      "type": "chips",
+      "price": 20
+    },
+    "lays_masala": {
+      "id": "CH02",
+      "name": "Lays Magic Masala",
+      "type": "chips",
+      "price": 20
+    },
+    "lays_cream_onion": {
+      "id": "CH03",
+      "name": "Lays Cream & Onion",
+      "type": "chips",
+      "price": 20
+    },
+    "bingo_mad_angles": {
+      "id": "CH04",
+      "name": "Bingo Mad Angles",
+      "type": "chips",
+      "price": 20
+    },
+    "bingo_chips": {
+      "id": "CH05",
+      "name": "Bingo Potato Chips",
+      "type": "chips",
+      "price": 20
+    },
+    "uncle_chips": {
+      "id": "CH06",
+      "name": "Uncle Chips",
+      "type": "chips",
+      "price": 20
+    },
+    "pringles_original": {
+      "id": "CH07",
+      "name": "Pringles Original",
+      "type": "chips",
+      "price": 110
+    },
+    "pringles_sour_cream": {
+      "id": "CH08",
+      "name": "Pringles Sour Cream & Onion",
+      "type": "chips",
+      "price": 110
+    },
+    "doritos_nacho": {
+      "id": "CH09",
+      "name": "Doritos Nacho Cheese",
+      "type": "chips",
+      "price": 60
+    },
+    "doritos_chili": {
+      "id": "CH10",
+      "name": "Doritos Sweet Chili",
+      "type": "chips",
+      "price": 60
+    },
+    "aloo_bhujia": {
+      "id": "CH11",
+      "name": "Haldiram's Aloo Bhujia",
+      "type": "chips",
+      "price": 30
+    },
+    "khatta_meetha": {
+      "id": "CH12",
+      "name": "Haldiram's Khatta Meetha",
+      "type": "chips",
+      "price": 30
+    },
+    "banana_chips": {
+      "id": "CH13",
+      "name": "Banana Chips",
+      "type": "chips",
+      "price": 40
+    },
+    "kettle_chips": {
+      "id": "CH14",
+      "name": "Kettle Chips",
+      "type": "chips",
+      "price": 50
+    }
+  }
+}

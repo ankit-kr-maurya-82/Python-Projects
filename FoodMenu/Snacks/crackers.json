@@ -1,0 +1,88 @@
+{
+  "crackers": {
+    "saltine": {
+      "id": "CR01",
+      "name": "Saltine Crackers",
+      "type": "crackers",
+      "price": 20
+    },
+    "cheese": {
+      "id": "CR02",
+      "name": "Cheese Crackers",
+      "type": "crackers",
+      "price": 30
+    },
+    "multigrain": {
+      "id": "CR03",
+      "name": "Multigrain Crackers",
+      "type": "crackers",
+      "price": 35
+    },
+    "wheat": {
+      "id": "CR04",
+      "name": "Wheat Crackers",
+      "type": "crackers",
+      "price": 25
+    },
+    "masala": {
+      "id": "CR05",
+      "name": "Masala Crackers",
+      "type": "crackers",
+      "price": 20
+    },
+    "cream": {
+      "id": "CR06",
+      "name": "Cream Crackers",
+      "type": "crackers",
+      "price": 30
+    },
+    "sesame": {
+      "id": "CR07",
+      "name": "Sesame Crackers",
+      "type": "crackers",
+      "price": 35
+    },
+    "garlic": {
+      "id": "CR08",
+      "name": "Garlic Crackers",
+      "type": "crackers",
+      "price": 30
+    },
+    "pepper": {
+      "id": "CR09",
+      "name": "Pepper Crackers",
+      "type": "crackers",
+      "price": 30
+    },
+    "butter": {
+      "id": "CR10",
+      "name": "Butter Crackers",
+      "type": "crackers",
+      "price": 25
+    },
+    "herb": {
+      "id": "CR11",
+      "name": "Herb Crackers",
+      "type": "crackers",
+      "price": 35
+    },
+    "rice": {
+      "id": "CR12",
+      "name": "Rice Crackers",
+      "type": "crackers",
+      "price": 40
+    },
+    "digestive": {
+      "id": "CR13",
+      "name": "Digestive Crackers",
+      "type": "crackers",
+      "price": 35
+    },
+    "honey": {
+      "id": "CR14",
+      "name": "Honey Crackers",
+      "type": "crackers",
+      "price": 30
+    }
+  }
+}

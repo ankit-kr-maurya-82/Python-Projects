@@ -1,0 +1,71 @@
+{
+  "menu": {
+    "biscuits": {
+      "parle_g": { "id": "B01", "name": "Parle-G", "type": "biscuit", "price": 10 },
+      "marie_gold": { "id": "B02", "name": "Marie Gold", "type": "biscuit", "price": 20 },
+      "bourbon": { "id": "B03", "name": "Bourbon", "type": "biscuit", "price": 30 },
+      "good_day_butter": { "id": "B04", "name": "Good Day Butter", "type": "biscuit", "price": 25 },
+      "good_day_cashew": { "id": "B05", "name": "Good Day Cashew", "type": "biscuit", "price": 30 },
+      "oreo": { "id": "B06", "name": "Oreo", "type": "biscuit", "price": 35 },
+      "dark_fantasy": { "id": "B07", "name": "Dark Fantasy", "type": "biscuit", "price": 90 },
+      "fifty_fifty": { "id": "B08", "name": "50-50", "type": "biscuit", "price": 20 },
+      "monaco": { "id": "B09", "name": "Monaco", "type": "biscuit", "price": 20 },
+      "nice_time": { "id": "B10", "name": "Nice Time", "type": "biscuit", "price": 25 },
+      "jim_jam": { "id": "B11", "name": "Jim Jam", "type": "biscuit", "price": 30 },
+      "little_hearts": { "id": "B12", "name": "Little Hearts", "type": "biscuit", "price": 20 },
+      "milk_bikis": { "id": "B13", "name": "Milk Bikis", "type": "biscuit", "price": 25 },
+      "digestive": { "id": "B14", "name": "Digestive Biscuit", "type": "biscuit", "price": 40 }
+    },
+
+    "chips": {
+      "lays_classic": { "id": "CH01", "name": "Lays Classic Salted", "type": "chips", "price": 20 },
+      "lays_masala": { "id": "CH02", "name": "Lays Magic Masala", "type": "chips", "price": 20 },
+      "lays_cream_onion": { "id": "CH03", "name": "Lays Cream & Onion", "type": "chips", "price": 20 },
+      "bingo_mad_angles": { "id": "CH04", "name": "Bingo Mad Angles", "type": "chips", "price": 20 },
+      "bingo_chips": { "id": "CH05", "name": "Bingo Potato Chips", "type": "chips", "price": 20 },
+      "uncle_chips": { "id": "CH06", "name": "Uncle Chips", "type": "chips", "price": 20 },
+      "pringles_original": { "id": "CH07", "name": "Pringles Original", "type": "chips", "price": 110 },
+      "pringles_sour_cream": { "id": "CH08", "name": "Pringles Sour Cream & Onion", "type": "chips", "price": 110 },
+      "doritos_nacho": { "id": "CH09", "name": "Doritos Nacho Cheese", "type": "chips", "price": 60 },
+      "doritos_chili": { "id": "CH10", "name": "Doritos Sweet Chili", "type": "chips", "price": 60 },
+      "aloo_bhujia": { "id": "CH11", "name": "Haldiram's Aloo Bhujia", "type": "chips", "price": 30 },
+      "khatta_meetha": { "id": "CH12", "name": "Haldiram's Khatta Meetha", "type": "chips", "price": 30 },
+      "banana_chips": { "id": "CH13", "name": "Banana Chips", "type": "chips", "price": 40 },
+      "kettle_chips": { "id": "CH14", "name": "Kettle Chips", "type": "chips", "price": 50 }
+    },
+
+    "cookies": {
+      "chocolate_chip": { "id": "CK01", "name": "Chocolate Chip Cookies", "type": "cookies", "price": 50 },
+      "butter_cookies": { "id": "CK02", "name": "Butter Cookies", "type": "cookies", "price": 40 },
+      "oatmeal_cookies": { "id": "CK03", "name": "Oatmeal Cookies", "type": "cookies", "price": 45 },
+      "almond_cookies": { "id": "CK04", "name": "Almond Cookies", "type": "cookies", "price": 60 },
+      "coconut_cookies": { "id": "CK05", "name": "Coconut Cookies", "type": "cookies", "price": 50 },
+      "cashew_cookies": { "id": "CK06", "name": "Cashew Cookies", "type": "cookies", "price": 55 },
+      "honey_oat": { "id": "CK07", "name": "Honey Oat Cookies", "type": "cookies", "price": 45 },
+      "dark_chocolate": { "id": "CK08", "name": "Dark Chocolate Cookies", "type": "cookies", "price": 55 },
+      "vanilla_cookies": { "id": "CK09", "name": "Vanilla Cookies", "type": "cookies", "price": 40 },
+      "shortbread": { "id": "CK10", "name": "Shortbread Cookies", "type": "cookies", "price": 50 },
+      "peanut_butter": { "id": "CK11", "name": "Peanut Butter Cookies", "type": "cookies", "price": 55 },
+      "red_velvet": { "id": "CK12", "name": "Red Velvet Cookies", "type": "cookies", "price": 65 },
+      "choco_fudge": { "id": "CK13", "name": "Choco Fudge Cookies", "type": "cookies", "price": 70 },
+      "coffee_cookies": { "id": "CK14", "name": "Coffee Cookies", "type": "cookies", "price": 50 }
+    },
+
+    "crackers": {
+      "saltine": { "id": "CR01", "name": "Saltine Crackers", "type": "crackers", "price": 20 },
+      "cheese": { "id": "CR02", "name": "Cheese Crackers", "type": "crackers", "price": 30 },
+      "multigrain": { "id": "CR03", "name": "Multigrain Crackers", "type": "crackers", "price": 35 },
+      "wheat": { "id": "CR04", "name": "Wheat Crackers", "type": "crackers", "price": 25 },
+      "masala": { "id": "CR05", "name": "Masala Crackers", "type": "crackers", "price": 20 },
+      "cream": { "id": "CR06", "name": "Cream Crackers", "type": "crackers", "price": 30 },
+      "sesame": { "id": "CR07", "name": "Sesame Crackers", "type": "crackers", "price": 35 },
+      "garlic": { "id": "CR08", "name": "Garlic Crackers", "type": "crackers", "price": 30 },
+      "pepper": { "id": "CR09", "name": "Pepper Crackers", "type": "crackers", "price": 30 },
+      "butter": { "id": "CR10", "name": "Butter Crackers", "type": "crackers", "price": 25 },
+      "herb": { "id": "CR11", "name": "Herb Crackers", "type": "crackers", "price": 35 },
+      "rice": { "id": "CR12", "name": "Rice Crackers", "type": "crackers", "price": 40 },
+      "digestive": { "id": "CR13", "name": "Digestive Crackers", "type": "crackers", "price": 35 },
+      "honey": { "id": "CR14", "name": "Honey Crackers", "type": "crackers", "price": 30 }
+    }
+  }
+}
