@@ -427,7 +427,7 @@ if time==2:
         if selectUser == 1:
             print("chinise")
 
-            chiniseList=["Noodles", "Pizza", "Burger"]
+            chiniseList=["Noodles", "Pizza", "Burger","Momos", "Spring Roll", "Manchurian", "Fried Rice"]
 
             for i in range(len(chiniseList)):
                 print(i+1, chiniseList[i])

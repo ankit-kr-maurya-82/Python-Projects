@@ -1,0 +1,88 @@
+{
+  "burger": {
+    "veg_burger": {
+      "id": "BGR01",
+      "name": "Veg Burger",
+      "type": "burger",
+      "price": 60
+    },
+    "cheese_veg_burger": {
+      "id": "BGR02",
+      "name": "Cheese Veg Burger",
+      "type": "burger",
+      "price": 80
+    },
+    "paneer_burger": {
+      "id": "BGR03",
+      "name": "Paneer Burger",
+      "type": "burger",
+      "price": 90
+    },
+    "crispy_veg_burger": {
+      "id": "BGR04",
+      "name": "Crispy Veg Burger",
+      "type": "burger",
+      "price": 70
+    },
+    "aloo_tikki_burger": {
+      "id": "BGR05",
+      "name": "Aloo Tikki Burger",
+      "type": "burger",
+      "price": 50
+    },
+    "double_veg_burger": {
+      "id": "BGR06",
+      "name": "Double Patty Veg Burger",
+      "type": "burger",
+      "price": 100
+    },
+    "chicken_burger": {
+      "id": "BGR07",
+      "name": "Chicken Burger",
+      "type": "burger",
+      "price": 110
+    },
+    "crispy_chicken_burger": {
+      "id": "BGR08",
+      "name": "Crispy Chicken Burger",
+      "type": "burger",
+      "price": 130
+    },
+    "tandoori_chicken_burger": {
+      "id": "BGR09",
+      "name": "Tandoori Chicken Burger",
+      "type": "burger",
+      "price": 140
+    },
+    "double_chicken_burger": {
+      "id": "BGR10",
+      "name": "Double Chicken Burger",
+      "type": "burger",
+      "price": 160
+    },
+    "cheese_chicken_burger": {
+      "id": "BGR11",
+      "name": "Cheese Chicken Burger",
+      "type": "burger",
+      "price": 130
+    },
+    "bbq_chicken_burger": {
+      "id": "BGR12",
+      "name": "BBQ Chicken Burger",
+      "type": "burger",
+      "price": 150
+    },
+    "peri_peri_burger": {
+      "id": "BGR13",
+      "name": "Peri-Peri Spicy Burger",
+      "type": "burger",
+      "price": 120
+    },
+    "mexican_burger": {
+      "id": "BGR14",
+      "name": "Mexican Veg Burger",
+      "type": "burger",
+      "price": 110
+    }
+  }
+}

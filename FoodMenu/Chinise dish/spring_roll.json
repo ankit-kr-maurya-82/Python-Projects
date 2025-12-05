@@ -1,0 +1,64 @@
+{
+  "spring_roll": {
+    "veg_spring_roll": {
+      "id": "SR01",
+      "name": "Veg Spring Roll",
+      "type": "spring_roll",
+      "price": 60
+    },
+    "paneer_spring_roll": {
+      "id": "SR02",
+      "name": "Paneer Spring Roll",
+      "type": "spring_roll",
+      "price": 70
+    },
+    "chicken_spring_roll": {
+      "id": "SR03",
+      "name": "Chicken Spring Roll",
+      "type": "spring_roll",
+      "price": 90
+    },
+    "schezwan_spring_roll": {
+      "id": "SR04",
+      "name": "Schezwan Spring Roll",
+      "type": "spring_roll",
+      "price": 80
+    },
+    "cheese_spring_roll": {
+      "id": "SR05",
+      "name": "Cheese Spring Roll",
+      "type": "spring_roll",
+      "price": 85
+    },
+    "mix_veg_spring_roll": {
+      "id": "SR06",
+      "name": "Mix Veg Spring Roll",
+      "type": "spring_roll",
+      "price": 70
+    },
+    "crispy_spring_roll": {
+      "id": "SR07",
+      "name": "Crispy Spring Roll",
+      "type": "spring_roll",
+      "price": 65
+    },
+    "tandoori_spring_roll": {
+      "id": "SR08",
+      "name": "Tandoori Spring Roll",
+      "type": "spring_roll",
+      "price": 90
+    },
+    "corn_spring_roll": {
+      "id": "SR09",
+      "name": "Corn Spring Roll",
+      "type": "spring_roll",
+      "price": 75
+    },
+    "mushroom_spring_roll": {
+      "id": "SR10",
+      "name": "Mushroom Spring Roll",
+      "type": "spring_roll",
+      "price": 85
+    }
+  }
+}

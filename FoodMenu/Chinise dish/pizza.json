@@ -1,0 +1,88 @@
+{
+  "pizza": {
+    "margherita": {
+      "id": "P01",
+      "name": "Margherita Pizza",
+      "type": "pizza",
+      "price": 120
+    },
+    "farmhouse": {
+      "id": "P02",
+      "name": "Farmhouse Pizza",
+      "type": "pizza",
+      "price": 180
+    },
+    "veg_extravaganza": {
+      "id": "P03",
+      "name": "Veg Extravaganza",
+      "type": "pizza",
+      "price": 200
+    },
+    "cheese_burst": {
+      "id": "P04",
+      "name": "Cheese Burst Pizza",
+      "type": "pizza",
+      "price": 220
+    },
+    "paneer_tikka": {
+      "id": "P05",
+      "name": "Paneer Tikka Pizza",
+      "type": "pizza",
+      "price": 190
+    },
+    "mexican_green_wave": {
+      "id": "P06",
+      "name": "Mexican Green Wave",
+      "type": "pizza",
+      "price": 210
+    },
+    "pepperoni": {
+      "id": "P07",
+      "name": "Pepperoni Pizza",
+      "type": "pizza",
+      "price": 250
+    },
+    "bbq_chicken": {
+      "id": "P08",
+      "name": "BBQ Chicken Pizza",
+      "type": "pizza",
+      "price": 260
+    },
+    "chicken_dominator": {
+      "id": "P09",
+      "name": "Chicken Dominator",
+      "type": "pizza",
+      "price": 280
+    },
+    "tandoori_chicken": {
+      "id": "P10",
+      "name": "Tandoori Chicken Pizza",
+      "type": "pizza",
+      "price": 270
+    },
+    "corn_cheese": {
+      "id": "P11",
+      "name": "Corn & Cheese Pizza",
+      "type": "pizza",
+      "price": 160
+    },
+    "five_cheese": {
+      "id": "P12",
+      "name": "Five Cheese Pizza",
+      "type": "pizza",
+      "price": 240
+    },
+    "peri_peri_veggie": {
+      "id": "P13",
+      "name": "Peri-Peri Veggie Pizza",
+      "type": "pizza",
+      "price": 200
+    },
+    "white_sauce_pizza": {
+      "id": "P14",
+      "name": "White Sauce Pizza",
+      "type": "pizza",
+      "price": 230
+    }
+  }
+}

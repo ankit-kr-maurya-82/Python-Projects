@@ -1,0 +1,64 @@
+{
+  "fried_rice": {
+    "veg_fried_rice": {
+      "id": "FR01",
+      "name": "Veg Fried Rice",
+      "type": "fried_rice",
+      "price": 80
+    },
+    "schezwan_fried_rice": {
+      "id": "FR02",
+      "name": "Schezwan Fried Rice",
+      "type": "fried_rice",
+      "price": 100
+    },
+    "egg_fried_rice": {
+      "id": "FR03",
+      "name": "Egg Fried Rice",
+      "type": "fried_rice",
+      "price": 90
+    },
+    "chicken_fried_rice": {
+      "id": "FR04",
+      "name": "Chicken Fried Rice",
+      "type": "fried_rice",
+      "price": 120
+    },
+    "mix_fried_rice": {
+      "id": "FR05",
+      "name": "Mix Fried Rice (Veg + Egg)",
+      "type": "fried_rice",
+      "price": 110
+    },
+    "paneer_fried_rice": {
+      "id": "FR06",
+      "name": "Paneer Fried Rice",
+      "type": "fried_rice",
+      "price": 120
+    },
+    "mushroom_fried_rice": {
+      "id": "FR07",
+      "name": "Mushroom Fried Rice",
+      "type": "fried_rice",
+      "price": 130
+    },
+    "garlic_fried_rice": {
+      "id": "FR08",
+      "name": "Garlic Fried Rice",
+      "type": "fried_rice",
+      "price": 95
+    },
+    "corn_fried_rice": {
+      "id": "FR09",
+      "name": "Corn Fried Rice",
+      "type": "fried_rice",
+      "price": 100
+    },
+    "tandoori_fried_rice": {
+      "id": "FR10",
+      "name": "Tandoori Fried Rice",
+      "type": "fried_rice",
+      "price": 140
+    }
+  }
+}

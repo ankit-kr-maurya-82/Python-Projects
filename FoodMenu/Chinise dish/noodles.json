@@ -1,0 +1,88 @@
+{
+  "noodles": {
+    "maggi_masala": {
+      "id": "N01",
+      "name": "Maggi Masala",
+      "type": "noodles",
+      "price": 15
+    },
+    "maggi_noodles_attas": {
+      "id": "N02",
+      "name": "Maggi Atta Noodles",
+      "type": "noodles",
+      "price": 20
+    },
+    "yippee_magic": {
+      "id": "N03",
+      "name": "Yippee Magic Masala",
+      "type": "noodles",
+      "price": 20
+    },
+    "yippee_classic": {
+      "id": "N04",
+      "name": "Yippee Classic",
+      "type": "noodles",
+      "price": 20
+    },
+    "chings_schezwan": {
+      "id": "N05",
+      "name": "Ching's Schezwan Noodles",
+      "type": "noodles",
+      "price": 25
+    },
+    "chings_hakka": {
+      "id": "N06",
+      "name": "Ching's Hakka Noodles",
+      "type": "noodles",
+      "price": 30
+    },
+    "top_ramen_masala": {
+      "id": "N07",
+      "name": "Top Ramen Masala",
+      "type": "noodles",
+      "price": 20
+    },
+    "top_ramen_curry": {
+      "id": "N08",
+      "name": "Top Ramen Curry Veg",
+      "type": "noodles",
+      "price": 22
+    },
+    "korean_ramen_spicy": {
+      "id": "N09",
+      "name": "Korean Spicy Ramen",
+      "type": "noodles",
+      "price": 80
+    },
+    "shin_ramyun": {
+      "id": "N10",
+      "name": "Shin Ramyun",
+      "type": "noodles",
+      "price": 100
+    },
+    "cup_noodles_veg": {
+      "id": "N11",
+      "name": "Cup Noodles Veg",
+      "type": "noodles",
+      "price": 45
+    },
+    "cup_noodles_masala": {
+      "id": "N12",
+      "name": "Cup Noodles Masala",
+      "type": "noodles",
+      "price": 45
+    },
+    "wheat_noodles": {
+      "id": "N13",
+      "name": "Wheat Noodles",
+      "type": "noodles",
+      "price": 35
+    },
+    "rice_noodles": {
+      "id": "N14",
+      "name": "Rice Noodles",
+      "type": "noodles",
+      "price": 40
+    }
+  }
+}

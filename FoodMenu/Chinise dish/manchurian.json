@@ -1,0 +1,64 @@
+{
+  "manchurian": {
+    "veg_manchurian": {
+      "id": "MN01",
+      "name": "Veg Manchurian",
+      "type": "manchurian",
+      "price": 90
+    },
+    "dry_veg_manchurian": {
+      "id": "MN02",
+      "name": "Veg Manchurian Dry",
+      "type": "manchurian",
+      "price": 100
+    },
+    "gravy_veg_manchurian": {
+      "id": "MN03",
+      "name": "Veg Manchurian Gravy",
+      "type": "manchurian",
+      "price": 110
+    },
+    "gobi_manchurian": {
+      "id": "MN04",
+      "name": "Gobi Manchurian",
+      "type": "manchurian",
+      "price": 120
+    },
+    "paneer_manchurian": {
+      "id": "MN05",
+      "name": "Paneer Manchurian",
+      "type": "manchurian",
+      "price": 130
+    },
+    "chicken_manchurian": {
+      "id": "MN06",
+      "name": "Chicken Manchurian",
+      "type": "manchurian",
+      "price": 150
+    },
+    "schezwan_manchurian": {
+      "id": "MN07",
+      "name": "Schezwan Manchurian",
+      "type": "manchurian",
+      "price": 130
+    },
+    "corn_manchurian": {
+      "id": "MN08",
+      "name": "Corn Manchurian",
+      "type": "manchurian",
+      "price": 120
+    },
+    "mushroom_manchurian": {
+      "id": "MN09",
+      "name": "Mushroom Manchurian",
+      "type": "manchurian",
+      "price": 140
+    },
+    "mix_manchurian": {
+      "id": "MN10",
+      "name": "Mix Manchurian",
+      "type": "manchurian",
+      "price": 130
+    }
+  }
+}

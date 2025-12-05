@@ -1,0 +1,88 @@
+{
+  "momos": {
+    "veg_momos": {
+      "id": "M01",
+      "name": "Veg Momos",
+      "type": "momos",
+      "price": 60
+    },
+    "paneer_momos": {
+      "id": "M02",
+      "name": "Paneer Momos",
+      "type": "momos",
+      "price": 80
+    },
+    "chicken_momos": {
+      "id": "M03",
+      "name": "Chicken Momos",
+      "type": "momos",
+      "price": 90
+    },
+    "tandoori_momos": {
+      "id": "M04",
+      "name": "Tandoori Momos",
+      "type": "momos",
+      "price": 110
+    },
+    "fried_momos": {
+      "id": "M05",
+      "name": "Fried Momos",
+      "type": "momos",
+      "price": 80
+    },
+    "steam_momos": {
+      "id": "M06",
+      "name": "Steamed Momos",
+      "type": "momos",
+      "price": 60
+    },
+    "afghani_momos": {
+      "id": "M07",
+      "name": "Afghani Momos",
+      "type": "momos",
+      "price": 120
+    },
+    "peri_peri_momos": {
+      "id": "M08",
+      "name": "Peri-Peri Momos",
+      "type": "momos",
+      "price": 100
+    },
+    "schezwan_momos": {
+      "id": "M09",
+      "name": "Schezwan Momos",
+      "type": "momos",
+      "price": 100
+    },
+    "kurkure_momos": {
+      "id": "M10",
+      "name": "Kurkure Crispy Momos",
+      "type": "momos",
+      "price": 120
+    },
+    "cheese_momos": {
+      "id": "M11",
+      "name": "Cheese Momos",
+      "type": "momos",
+      "price": 110
+    },
+    "butter_momos": {
+      "id": "M12",
+      "name": "Butter Momos",
+      "type": "momos",
+      "price": 130
+    },
+    "mix_momos": {
+      "id": "M13",
+      "name": "Mix Momos (Veg + Paneer)",
+      "type": "momos",
+      "price": 90
+    },
+    "spicy_red_momos": {
+      "id": "M14",
+      "name": "Spicy Red Momos",
+      "type": "momos",
+      "price": 95
+    }
+  }
+}
