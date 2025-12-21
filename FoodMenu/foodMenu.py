@@ -39,8 +39,8 @@ if time==1:
             
         elif selectUser == 2:
             print("you selected Snacks")
-        else:
-            print("Invalid choice, please enter 1,2 or 3")
+        # else:
+        #     print("Invalid choice, please enter 1 or 2")
 
         
         if selectUser == 1:
@@ -421,8 +421,8 @@ if time==2:
             print("you selected chinise")
         elif selectUser == 2:
             print("you selected south dish")
-        else:
-            print("Invalid choice, please enter 1, or 2")
+        # else:
+        #     print("Invalid choice, please enter 1, or 2")
 
         if selectUser == 1:
             print("chinise")
@@ -720,8 +720,8 @@ if time==3:
             print("you selected special thali")
         elif selectUser == 1:
             print("you selected normal thali")
-        else:
-            print("Invalid choice, please enter 1, or 2")
+        # else:
+        #     print("Invalid choice, please enter 1, or 2")
 
         if selectUser == 1:
             print("special thali")
